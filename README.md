@@ -10,8 +10,8 @@
 
 ## Team
 
-| Name | Role | GitHub |
-| :--- | :--- | :--- |
+| Name |
+| :--- |
 | **Shreyas Katale** |
 | **Nikhil Patil** |
 | **Charvi Rathod** |
