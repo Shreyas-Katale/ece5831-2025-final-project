@@ -1,12 +1,20 @@
 # ece5831-2025-final-project
 
-# 🤖 Intelligent Ticket Triage (ECE 5831 Final Project)
+# Intelligent Ticket Triage (ECE 5831 Final Project)
 
 **Automatic Customer Support Classification using Fine-Tuned Llama 3**
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-PyTorch%20%26%20Streamlit-red)
 ![Model](https://img.shields.io/badge/AI-Llama%203%208B-green)
+
+## Team
+
+| Name | Role | GitHub |
+| :--- | :--- | :--- |
+| **Shreyas Katale** |
+| **Nikhil Patil** |
+| **Charvi Rathod** |
 
 ## Project Overview
 In the modern service economy, efficient handling of customer support inquiries is critical. Manual triage of support tickets is slow, expensive, and prone to human error.
